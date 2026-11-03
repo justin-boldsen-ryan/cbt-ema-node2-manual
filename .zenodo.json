@@ -20,7 +20,7 @@
   "related_identifiers": [
     {
       "scheme": "doi",
-      "identifier": "10.5072/zenodo.REPLACE_WITH_NODE1_DOI",
+      "identifier": "10.5072/zenodo.632498",
       "relation": "isSupplementTo",
       "resource_type": "publication-workingpaper"
     }
