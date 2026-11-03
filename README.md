@@ -1,11 +1,8 @@
-# Node 2: Clinical Protocol, Manual & Measures
+# [SANDBOX EXAMPLE / MOCK STUDY] Node 2: Clinical Manual & Measures
 
-<!-- Paste Zenodo Sandbox Concept DOI badge here once minted -->
-
-This repository represents **Node 2 (Clinical Protocol, Manual & Measures)** in a Method B2 modular clinical psychology research graph.
+> **⚠️ DISCLAIMER: FICTIONAL SANDBOX EXAMPLE ONLY**
+> This repository is a **mock example** created solely to test and demonstrate the **GitHub + Zenodo Sandbox (Method B2)** multi-repository citation graph workflow. Nothing in this repository represents a real clinical manual or real research study.
 
 - **Zenodo Classification:** `upload_type: "publication"`, `publication_type: "technicalnote"`
 - **Upstream Graph Links (`related_identifiers`):**
-  - `isSupplementTo` → **Node 1 (Study Protocol)**
-- **Contents:**
-  - `docs/ema_item_bank.md`: Smartphone EMA item wording, rating scales (0–100 VAS), and semi-random prompting schedule.
+  - `isSupplementTo` → **Node 1 (Mock Study Protocol)**

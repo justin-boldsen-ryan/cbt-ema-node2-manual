@@ -1,19 +1,19 @@
 cff-version: 1.2.0
-message: "If you use this clinical manual or EMA item bank, please cite it using these metadata."
+message: "SANDBOX EXAMPLE ONLY: Fictional mock manual for testing GitHub-Zenodo Method B2 graph linking."
 type: dataset
-title: "Outpatient CBT Exposure Hierarchy Manual and EMA Prompting Schedule (Node 2)"
-abstract: "Clinician treatment manual, adherence fidelity checklist, and smartphone EMA prompting schedule."
+title: "[SANDBOX EXAMPLE / MOCK STUDY] Outpatient CBT Manual and EMA Schedule (Node 2)"
+abstract: "Fictional sandbox example repository demonstrating the Method B2 GitHub+Zenodo modular research graph (not a real study)."
 authors:
   - family-names: Boldsen
     given-names: Justin
-    affiliation: "Clinical Psychology Research Lab"
+    affiliation: "Example Sandbox Testing"
 version: 1.0.0
 date-released: "2026-11-03"
 license: CC-BY-4.0
 repository-code: "https://github.com/justin-boldsen-ryan/cbt-ema-node2-manual"
 references:
   - type: article
-    title: "Timestamped Study Protocol and Multilevel Analysis Plan: Momentary Emotion Regulation in Outpatient CBT (Node 1)"
+    title: "[SANDBOX EXAMPLE / MOCK STUDY] Timestamped Study Protocol and Multilevel Analysis Plan (Node 1)"
     authors:
       - family-names: Boldsen
         given-names: Justin

@@ -1,20 +1,19 @@
 {
-  "title": "Outpatient CBT Exposure Hierarchy Manual and EMA Prompting Schedule (Node 2)",
+  "title": "[SANDBOX EXAMPLE / MOCK STUDY] Outpatient CBT Manual and EMA Schedule (Node 2)",
   "upload_type": "publication",
   "publication_type": "technicalnote",
-  "description": "Clinician treatment manual, adherence fidelity checklist, and smartphone Ecological Momentary Assessment (EMA) prompting schedule and item bank.",
+  "description": "[NOTE: This is a fictional sandbox example repository demonstrating the Method B2 GitHub+Zenodo modular research graph. It is NOT a real clinical manual.] Mock treatment manual and EMA item bank.",
   "creators": [
     {
       "name": "Boldsen, Justin",
-      "affiliation": "Clinical Psychology Research Lab"
+      "affiliation": "Example Sandbox Testing"
     }
   ],
   "keywords": [
-    "Clinical Psychology",
-    "Treatment Manual",
-    "Ecological Momentary Assessment",
-    "Psychometrics",
-    "Cognitive Behavioral Therapy"
+    "sandbox-example",
+    "mock-study",
+    "zenodo-test",
+    "method-b2-graph"
   ],
   "access_right": "open",
   "license": "CC-BY-4.0",
