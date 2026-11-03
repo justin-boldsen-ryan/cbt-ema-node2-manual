@@ -1,0 +1,29 @@
+{
+  "title": "Outpatient CBT Exposure Hierarchy Manual and EMA Prompting Schedule (Node 2)",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "description": "Clinician treatment manual, adherence fidelity checklist, and smartphone Ecological Momentary Assessment (EMA) prompting schedule and item bank.",
+  "creators": [
+    {
+      "name": "Boldsen, Justin",
+      "affiliation": "Clinical Psychology Research Lab"
+    }
+  ],
+  "keywords": [
+    "Clinical Psychology",
+    "Treatment Manual",
+    "Ecological Momentary Assessment",
+    "Psychometrics",
+    "Cognitive Behavioral Therapy"
+  ],
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "related_identifiers": [
+    {
+      "scheme": "doi",
+      "identifier": "10.5072/zenodo.REPLACE_WITH_NODE1_DOI",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-workingpaper"
+    }
+  ]
+}
